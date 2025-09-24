@@ -22,4 +22,4 @@ func --version
 az --version
 
 
-test
+test123123
