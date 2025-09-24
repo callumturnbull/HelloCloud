@@ -20,3 +20,6 @@ git clone https://github.com/callumturnbull/HelloCloud.git
 git pull
 func --version
 az --version
+
+
+test
